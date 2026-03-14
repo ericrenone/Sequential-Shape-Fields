@@ -1,4 +1,7 @@
-# Collective Geometric Inscription
+# Collective Geometric Inscription (CGI)
+
+> Every 2024–2025 STPP paper models a physical rate. CGI models a decision rule — and has an experiment designed to recover it.
+
 ## A Marked Spatial Point Process Framework for Emergent Artifact Formation
 
 > Uncoordinated participants, acting under a single minimal instruction,  
